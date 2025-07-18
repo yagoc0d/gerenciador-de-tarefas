@@ -23,6 +23,7 @@ Este é um projeto simples de Gerenciador de Tarefas em C#, desenvolvido com o o
 - Estrutura de dados implementada manualmente (Lista Encadeada)
 
 ## 📁 Estrutura do Projeto
+```
 ProjetoGerenciadorTarefa/
 │
 ├── GerenciadorTarefas/ # Código-fonte principal
@@ -33,7 +34,7 @@ ProjetoGerenciadorTarefa/
 │
 ├── README.md
 └── .gitignore
-
+```
 ## 🧠 Aprendizados
 
 - Manipulação de ponteiros em C#
